@@ -6,7 +6,7 @@ Una empresa que provee de frutas y verduras  a sus clientes cada día, necesita 
 
 
 <p align="center">
-  <img width="600" height="600" src="https://github.com/Paul243654/Inventario/assets/112754073/5e02fd95-6822-436c-b6ea-a6ed8c5e0d58">   
+  <img width="700" height="600" src="https://github.com/Paul243654/Inventario/assets/112754073/5e02fd95-6822-436c-b6ea-a6ed8c5e0d58">   
 </p>
 
 ## Descripción
