@@ -12,7 +12,6 @@ Una empresa que provee de frutas y verduras  a sus clientes cada día, necesita 
 
 
 En el momento de la preparación, justo al completar un palet para enviar, se anota el cliente, el tipo y número de cajas correspondientes a ese palet, al final de la preparación y antes de la carga de la mercancía al camión, se introducen todos los datos en la aplicación y se genera un listado para adjuntarse al albarán de envio.
-A su vez, tambien se pueden realizar diversas consultas en la aplicación, para poder resolver errores e incidencias en la preparación, todo esto antes de cargar los pedidos al camión.
 
 
 ## Estado
@@ -20,6 +19,10 @@ A su vez, tambien se pueden realizar diversas consultas en la aplicación, para 
 ![en_construccion](https://github.com/Paul243654/Inventario/assets/112754073/1c5a40d2-cfd9-4826-930c-804b615f6931)
 
 ## Funcionalidades
+
+- Adjuntar listado generado al albarán de envio.
+- Realizar diversas consultas en la aplicación, para poder resolver errores e incidencias en la preparación, todo esto antes de cargar los pedidos al camión.
+- LLevar un historial de errores e incidencias en la preparación.
 
 ![alcampo](https://github.com/Paul243654/Inventario/assets/112754073/760e0d94-01ea-44c2-8f7b-d6dbcb009836)
 
