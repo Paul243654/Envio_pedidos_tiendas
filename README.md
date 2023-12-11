@@ -16,7 +16,8 @@ En el momento de la preparación, justo al completar un palet de pedidos para en
 
 ## Estado
 
-![en_construccion](https://github.com/Paul243654/Inventario/assets/112754073/1c5a40d2-cfd9-4826-930c-804b615f6931)
+![ready](https://github.com/Paul243654/Envio_pedidos_tiendas/assets/112754073/e37748d8-069a-41b9-8067-35aaacf912fb)
+
 
 ## Funcionalidades
 
