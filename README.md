@@ -1,4 +1,4 @@
-# <h1 align="center"> Registros de la preparación de pedidos </h1>
+# <h1 align="center"> Registros de la preparación de pedidos (VBA) </h1>
 
 ## Introducción
 
@@ -27,6 +27,8 @@ En el momento de la preparación, justo al completar un palet de pedidos para en
 - Llevar un control de las cajas devueltas por los clientes.
 
 ![alcampo](https://github.com/Paul243654/Inventario/assets/112754073/760e0d94-01ea-44c2-8f7b-d6dbcb009836)
+
+En la imagen, podemos observar el detalle del tipo y cantidad de cajas enviados diariamente a ca cliente, incluidos el número de palets.
 
 ## Autores
 
